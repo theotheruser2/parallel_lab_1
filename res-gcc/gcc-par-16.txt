@@ -1,0 +1,202 @@
+
+N=510. Milliseconds passed: 12
+
+N=732. Milliseconds passed: 19
+
+N=954. Milliseconds passed: 28
+
+N=1176. Milliseconds passed: 39
+
+N=1398. Milliseconds passed: 50
+
+N=1620. Milliseconds passed: 906
+
+N=1842. Milliseconds passed: 852
+
+N=2064. Milliseconds passed: 451
+
+N=2286. Milliseconds passed: 544
+
+N=2508. Milliseconds passed: 645
+
+N=2730. Milliseconds passed: 700
+
+N=2952. Milliseconds passed: 769
+
+N=3174. Milliseconds passed: 1658
+
+N=3396. Milliseconds passed: 1069
+
+N=3618. Milliseconds passed: 1116
+
+N=3840. Milliseconds passed: 1189
+
+N=4062. Milliseconds passed: 1247
+
+N=4284. Milliseconds passed: 1026
+
+N=4506. Milliseconds passed: 1586
+
+N=4728. Milliseconds passed: 1756
+
+N=4950. Milliseconds passed: 1958
+
+N=5172. Milliseconds passed: 2047
+
+N=5394. Milliseconds passed: 2141
+
+N=5616. Milliseconds passed: 2357
+
+N=5838. Milliseconds passed: 2539
+
+N=6060. Milliseconds passed: 1811
+
+N=6282. Milliseconds passed: 2853
+
+N=6504. Milliseconds passed: 3529
+
+N=6726. Milliseconds passed: 7829
+
+N=6948. Milliseconds passed: 3512
+
+N=7170. Milliseconds passed: 3552
+
+N=7392. Milliseconds passed: 3949
+
+N=7614. Milliseconds passed: 3941
+
+N=7836. Milliseconds passed: 4850
+
+N=8058. Milliseconds passed: 5072
+
+N=8280. Milliseconds passed: 4822
+
+N=8502. Milliseconds passed: 4022
+
+N=8724. Milliseconds passed: 6055
+
+N=8946. Milliseconds passed: 4466
+
+N=9168. Milliseconds passed: 4673
+
+N=9390. Milliseconds passed: 5625
+
+N=9612. Milliseconds passed: 4880
+
+N=9834. Milliseconds passed: 4281
+
+N=10056. Milliseconds passed: 8595
+
+N=10278. Milliseconds passed: 5324
+
+N=10500. Milliseconds passed: 5376
+
+N=10722. Milliseconds passed: 8263
+
+N=10944. Milliseconds passed: 6113
+
+N=11166. Milliseconds passed: 6037
+
+N=11388. Milliseconds passed: 6457
+
+N=11610. Milliseconds passed: 6731
+
+N=11832. Milliseconds passed: 5660
+
+N=12054. Milliseconds passed: 5814
+
+N=12276. Milliseconds passed: 7640
+
+N=12498. Milliseconds passed: 7323
+
+N=12720. Milliseconds passed: 9945
+
+N=12942. Milliseconds passed: 9594
+
+N=13164. Milliseconds passed: 10102
+
+N=13386. Milliseconds passed: 8994
+
+N=13608. Milliseconds passed: 8344
+
+N=13830. Milliseconds passed: 7678
+
+N=14052. Milliseconds passed: 7427
+
+N=14274. Milliseconds passed: 7687
+
+N=14496. Milliseconds passed: 7423
+
+N=14718. Milliseconds passed: 8360
+
+N=14940. Milliseconds passed: 7231
+
+N=15162. Milliseconds passed: 7386
+
+N=15384. Milliseconds passed: 7175
+
+N=15606. Milliseconds passed: 7618
+
+N=15828. Milliseconds passed: 7263
+
+N=16050. Milliseconds passed: 7176
+
+N=16272. Milliseconds passed: 7220
+
+N=16494. Milliseconds passed: 7139
+
+N=16716. Milliseconds passed: 8048
+
+N=16938. Milliseconds passed: 7211
+
+N=17160. Milliseconds passed: 7261
+
+N=17382. Milliseconds passed: 7674
+
+N=17604. Milliseconds passed: 7219
+
+N=17826. Milliseconds passed: 7243
+
+N=18048. Milliseconds passed: 7452
+
+N=18270. Milliseconds passed: 7350
+
+N=18492. Milliseconds passed: 7457
+
+N=18714. Milliseconds passed: 7370
+
+N=18936. Milliseconds passed: 7349
+
+N=19158. Milliseconds passed: 7618
+
+N=19380. Milliseconds passed: 7509
+
+N=19602. Milliseconds passed: 7535
+
+N=19824. Milliseconds passed: 8336
+
+N=20046. Milliseconds passed: 7621
+
+N=20268. Milliseconds passed: 7762
+
+N=20490. Milliseconds passed: 7660
+
+N=20712. Milliseconds passed: 7839
+
+N=20934. Milliseconds passed: 10007
+
+N=21156. Milliseconds passed: 7624
+
+N=21378. Milliseconds passed: 7913
+
+N=21600. Milliseconds passed: 7862
+
+N=21822. Milliseconds passed: 9404
+
+N=22044. Milliseconds passed: 8557
+
+N=22266. Milliseconds passed: 8109
+
+N=22488. Milliseconds passed: 8313
+
+N=22710. Milliseconds passed: 8436
